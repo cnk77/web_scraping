@@ -1,3 +1,6 @@
+# This is part of a course from Northwest Missouri State University
+# Completed by Kyle Hudson (https://github.com/cnk77)
+
 # Web Scraping and NLP with Requests, BeautifulSoup, and spaCy
 
 Complete the tasks in the Python Notebook in this repository.
